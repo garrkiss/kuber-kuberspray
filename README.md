@@ -6,4 +6,4 @@
 ![Ссылка](https://github.com/garrkiss/kuber-kuberspray/blob/main/img/1.png)
 
 ### Подключение к мастер ноде и вывод нод
-![Ссылка](https://github.com/garrkiss/kuber-kuberspray/blob/main/img/2.png
+![Ссылка](https://github.com/garrkiss/kuber-kuberspray/blob/main/img/2.png)
